@@ -1,5 +1,5 @@
 ### Hello world!
 
-- Desenvolvedor na Axur
-- Estudante de Defesa Cibernética na FIAP
+- Analista de Segurança da Informação
+- Formado em Defesa Cibernética na FIAP
 - Meu LinkedIn: https://www.linkedin.com/in/juarezhenriquelisboa/
